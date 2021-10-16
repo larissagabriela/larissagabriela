@@ -1,4 +1,4 @@
-## Larissa Gabriela - Estagiária no Grupo Alura
+## Estagiária no Grupo Alura
 <div align="center">
   <a href="https://github.com/larissagabriela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissagabriela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
