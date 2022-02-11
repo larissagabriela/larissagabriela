@@ -1,7 +1,7 @@
 ## Instrutora no Grupo Alura
 
 **Graduanda em Física Médica na Universidade Federal do Rio de Janeiro**  <br/><br/>
-**Vice-presidente da NeoAtom**, Empresa Júnior de Física Médica da UFRJ  <br/><br/>
+**Presidente da NeoAtom**, Empresa Júnior de Física Médica da UFRJ  <br/><br/>
 **Faço iniciação tecnológica na Octos** com o tema "Desenvolvimento de Algoritmos de Deep Learning Aplicados ao Processamento de Imagem e Vídeo". <br/><br/>
 
 ##
