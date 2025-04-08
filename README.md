@@ -1,27 +1,23 @@
-## Instrutora no Grupo Alura
+## Mestranda em Físi aplicada na Universidade Federal do Rio de Janeiro
 
-**Graduanda em Física Médica na Universidade Federal do Rio de Janeiro**  <br/><br/>
-**Presidente da NeoAtom**, Empresa Júnior de Física Médica da UFRJ  <br/><br/>
+**Graduada em Física Médica na Universidade Federal do Rio de Janeiro**  <br/><br/>
+**Pós graduanda em Proteção Radiológica e segurança de fontes radioativas  <br/><br/>
 
 ##
 
 
  ## Ferramentas e tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  
-  
+  <link align="center" rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />         
+ 
 </div>  
 </div>
  
 ##
  
   ## Ferramentas e tecnologias que estou aprendendo
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+<div style="display: inline_block"><br>          
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>  
 
