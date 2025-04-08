@@ -1,7 +1,9 @@
 ## 👩‍🔬 Sobre mim
 
 **Mestranda em Física Aplicada na Universidade Federal do Rio de Janeiro**  
+
 **Pós-graduanda em Proteção Radiológica e Segurança de Fontes Radioativas**
+
 **Graduada em Física Médica pela Universidade Federal do Rio de Janeiro**  
 
 ---
