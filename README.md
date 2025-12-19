@@ -1,8 +1,10 @@
 ## 👩‍🔬 Sobre mim
 
+**Pesquisadora QMS I na Firjan
+
 **Mestranda em Física Aplicada na Universidade Federal do Rio de Janeiro**  
 
-**Pós-graduanda em Proteção Radiológica e Segurança de Fontes Radioativas no Instituto de Radioproteção e Dosimetria**
+**Especialista em Proteção Radiológica e Segurança de Fontes Radioativas no Instituto de Radioproteção e Dosimetria**
 
 **Graduada em Física Médica pela Universidade Federal do Rio de Janeiro**  
 
@@ -48,7 +50,7 @@
   <a href="mailto:larissagosantana@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/larissa-gabriela-oliveira-de-santana-a11948142/" target="_blank">
+  <a href="https://www.linkedin.com/in/larissasantana31/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
