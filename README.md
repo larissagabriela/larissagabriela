@@ -2,11 +2,11 @@
 
 **Pesquisadora QMS I na Firjan**
 
-**Mestranda em Física Aplicada na Universidade Federal do Rio de Janeiro**  
+**Mestranda em Física Aplicada no Instituto de Física da Universidade Federal do Rio de Janeiro**  
 
-**Especialista em Proteção Radiológica e Segurança de Fontes Radioativas no Instituto de Radioproteção e Dosimetria**
+**Especialista em Proteção Radiológica e Segurança de Fontes Radioativas pelo Instituto de Radioproteção e Dosimetria da Autoridade Nacional de Segurança Nuclear**
 
-**Graduada em Física Médica pela Universidade Federal do Rio de Janeiro**  
+**Graduada em Física Médica pelo Instituto de Física da Universidade Federal do Rio de Janeiro**  
 
 ---
 
