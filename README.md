@@ -1,6 +1,6 @@
 ## 👩‍🔬 Sobre mim
 
-**Pesquisadora QMS I na Firjan
+**Pesquisadora QMS I na Firjan**
 
 **Mestranda em Física Aplicada na Universidade Federal do Rio de Janeiro**  
 
